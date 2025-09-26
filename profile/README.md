@@ -23,14 +23,14 @@
 
 <div align="center">
   <h2>Conheça Nossa Equipe ✨</h2>
-  <a href="https://www.linkedin.com/in/guilherme-peixoto-dev/"><img width="240"  alt="Guilherme" src="https://github.com/user-attachments/assets/ef92f1f1-9dae-4e08-9dae-0a1ec1f0f944" /></a>
-  <a href="https://www.linkedin.com/in/isabelle-lemos1x/"><img width="240" alt="Isabelle" src="https://github.com/user-attachments/assets/1fe1861d-4d57-4aec-9732-59eae99d36f6" /></a>    
-  <a href="https://www.linkedin.com/in/alberth-nery-8820b423a/"><img width="240" alt="Albert" src="https://github.com/user-attachments/assets/2cf295a0-69a9-48cb-8be6-45f6113fb169" /></a>
-  <a href="https://www.linkedin.com/in/ikajira/"><img width="240" alt="Kaique" src="https://github.com/user-attachments/assets/f16af40c-276c-4a87-8177-6c65286f3019" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-peixoto-dev/"><img width="235"  alt="Guilherme" src="https://github.com/user-attachments/assets/ef92f1f1-9dae-4e08-9dae-0a1ec1f0f944" /></a>
+  <a href="https://www.linkedin.com/in/isabelle-lemos1x/"><img width="235" alt="Isabelle" src="https://github.com/user-attachments/assets/1fe1861d-4d57-4aec-9732-59eae99d36f6" /></a>    
+  <a href="https://www.linkedin.com/in/alberth-nery-8820b423a/"><img width="235" alt="Albert" src="https://github.com/user-attachments/assets/2cf295a0-69a9-48cb-8be6-45f6113fb169" /></a>
+  <a href="https://www.linkedin.com/in/ikajira/"><img width="235" alt="Kaique" src="https://github.com/user-attachments/assets/f16af40c-276c-4a87-8177-6c65286f3019" /></a>
   <hr>
-  <a href="https://www.linkedin.com/in/sabrina-santos-gomes/"><img width="240" alt="Sabrina" src="https://github.com/user-attachments/assets/480da31c-1d7c-45df-bf68-8c9ddecae6d4" /></a>
-  <a href="https://www.linkedin.com/in/marcos-augusto-591019342/"><img width="240" alt="Marcos" src="https://github.com/user-attachments/assets/1fa7f0e9-caf4-4e5e-8e74-116c5743b464" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-pereira-da-silva-221b62268/"><img width="240" alt="Leonardo" src="https://github.com/user-attachments/assets/cbc17787-0d05-485c-a17e-fa61d30f0217" /></a>
-  <a href="https://www.linkedin.com/in/matheus-dias-71982b333/"><img width="240" alt="Matheus" src="https://github.com/user-attachments/assets/0795285c-6b19-4866-adb6-25fca057a772" /></a>
+  <a href="https://www.linkedin.com/in/sabrina-santos-gomes/"><img width="235" alt="Sabrina" src="https://github.com/user-attachments/assets/480da31c-1d7c-45df-bf68-8c9ddecae6d4" /></a>
+  <a href="https://www.linkedin.com/in/marcos-augusto-591019342/"><img width="235" alt="Marcos" src="https://github.com/user-attachments/assets/1fa7f0e9-caf4-4e5e-8e74-116c5743b464" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-pereira-da-silva-221b62268/"><img width="235" alt="Leonardo" src="https://github.com/user-attachments/assets/cbc17787-0d05-485c-a17e-fa61d30f0217" /></a>
+  <a href="https://www.linkedin.com/in/matheus-dias-71982b333/"><img width="235" alt="Matheus" src="https://github.com/user-attachments/assets/0795285c-6b19-4866-adb6-25fca057a772" /></a>
 </div>
 
