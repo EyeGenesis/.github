@@ -1,10 +1,11 @@
 <div align="center">
   <img width="100%" height="350" align="center" alt="Apresentação-Eyegen" src="https://github.com/user-attachments/assets/3aae840d-c71b-4e6b-afdf-3f1acd16adff" />
 </div>
+<h1></h1>
 
-<h1 align="center">Seja Bem-vindo(a) à EyeGen 👓</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6A79F7&text=Seja%20Bem-vindo(a)%20à%20EyeGen%20👓&descAlign=0&descAlignY=71&fontColor=FFFFFF&fontSize=40&fontAlignY=30&animation=fadeIn" />
 
-<h2 align="center">Nosso Propósito <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /></h2>
+<h1 align="center">Nosso Propósito <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /></h1>
 <p align="center">Criamos autonomia, dignidade e qualidade de vida para pessoas com limitações visuais, através de nosso óculos com Inteligência Artificial assistiva.</p>
 
 <div align="center">
