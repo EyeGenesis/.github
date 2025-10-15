@@ -1,5 +1,7 @@
 <div align="center">
-  <img width="100%" height="350" align="center" alt="Apresentação-Eyegen" src="https://github.com/user-attachments/assets/3aae840d-c71b-4e6b-afdf-3f1acd16adff" />
+  
+  <img width="100%" height="325" alt="Frame 1" src="https://github.com/user-attachments/assets/b1e5ce1c-0a23-44dc-8ac5-10b65b56d514" />
+
 </div>
 <h1></h1>
 
