@@ -20,7 +20,7 @@
 </div>
 <div align="center">
   <h2>Valores <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" /></h2>
-  <p>Promover a autonomia e qualidade de vida para pessoas com deficiência visual.</p>
+  <p>Inclusão, criatividade, respeito, colaboração e impacto social..</p>
 </div>
 
 <div align="center">
