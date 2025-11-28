@@ -1,43 +1,60 @@
 <p align="center">
-  <img src="docs/EyeGlass.png" alt="EyeGlass" width="450"/>
+  <img src="docs/EyeGlass.png" width="500" alt="EyeGlass Banner"/>
 </p>
 
-# 👁️ EyeGlass / EyeGen — Assistive Navigation System
+<h1 align="center">👁️ EyeGlass / EyeGen</h1>
 
-Sistema de navegação assistiva que combina Inteligência Artificial, visão computacional, IoT e dispositivos vestíveis (wearables) para auxiliar pessoas com deficiência visual a se locomoverem com segurança no mundo físico.
-
----
-
-# 📘 Documentação
-
-Toda a documentação do projeto está organizada dentro da pasta **/docs**, separada em tópicos principais:
-
-### 📄 Arquivos disponíveis:
-
-- 👉 [Instalação & Configuração](docs/INSTALACAO.md)
-- 👉 [Tecnologias](docs/TECNOLOGIAS.md)
-- 👉 [Jornada do Usuário](docs/JORNADA_USER.md)
-- 👉 [Financeiro](docs/FINANCEIRO.md)
-- 👉 [Equipe](docs/EQUIPE.md)
-- 👉 [Sobre o Projeto](docs/SOBRE.md)
+<p align="center">
+  Sistema de Navegação Assistiva utilizando IA, Visão Computacional e IoT.<br/>
+  Criado para apoiar pessoas com deficiência visual na locomoção diária.
+</p>
 
 ---
 
-# 🧩 Resumo do Sistema
+## 🧭 Sobre o Projeto
 
-O EyeGlass / EyeGen é um sistema modular composto por:
+O **EyeGlass / EyeGen** é um sistema vestível que combina **visão computacional**, **raciocínio via LLM**, **IoT**, **HUD** e **TTS** para interpretar ambientes e orientar usuários com deficiência visual em tempo real.
 
-- 🎯 **IA** para detecção de objetos e orientação contextual  
-- 🎥 **Visão Computacional** em tempo real via câmera integrada  
-- 📡 **Módulo IoT** para comunicação com dispositivos externos  
-- 🧠 **Back-end inteligente** que processa, decide e orienta  
-- 🕶️ **Front-end de HUD** para interface no óculos ou app  
-- 🔊 **TTS assistivo** para instruções por voz  
-- ⚙️ **Arquitetura extensível e plugável**  
-
-O objetivo principal é **fornecer orientações rápidas, seguras e inteligentes** para pessoas com deficiência visual, em movimento ou ambientes desconhecidos.
+Ele detecta obstáculos, descreve o ambiente, identifica objetos e fornece alertas inteligentes por voz.
 
 ---
 
-# 🧭 Estrutura do Projeto
+## ✨ Funcionalidades Principais
 
+- 🔎 **Detecção de objetos em tempo real**  
+- 🧠 **Análise contextual com IA (LLM + DSPy)**  
+- 🔊 **Orientações por voz (TTS)**  
+- 🕶️ **HUD integrado ao óculos inteligente**  
+- 📡 **Módulo IoT para sensores externos**  
+- 🧭 **Orientações de direção (esquerda, direita, pare, siga)**  
+- ⚙️ Arquitetura modular (Front, Back, IA, IoT)
+
+---
+
+## 📘 Documentação
+
+Toda a documentação oficial está na pasta `/docs`:
+
+- 📄 [Instalação & Configuração](docs/INSTALACAO.md)  
+- 📄 [Tecnologias](docs/TECNOLOGIAS.md)  
+- 📄 [Jornada do Usuário](docs/JORNADA_USER.md)  
+- 📄 [Financeiro](docs/FINANCEIRO.md)  
+- 📄 [Equipe](docs/EQUIPE.md)  
+- 📄 [Sobre](docs/SOBRE.md)
+
+---
+
+## ⚙️ Instalação (Resumo)
+
+> Versão completa em: **docs/INSTALACAO.md**
+
+```bash
+git clone https://github.com/seu-repo/EyeGen.git
+cd EyeGen
+
+python -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python app.py
