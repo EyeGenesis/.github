@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b1e5ce1c-0a23-44dc-8ac5-10b65b56d514" width="100%" hight="315px" alt="EyeGlass Banner"/>
@@ -113,6 +113,8 @@ pip install -r requirements.txt
 python app.py
 
 ```
+
+<div align="center">
 
 > <div align="center">
   <h2>Conheça Nossa Equipe ✨</h2>
