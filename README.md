@@ -98,7 +98,20 @@ Cada seção abaixo contém um **resumo** + link para a versão completa no `/do
 # ⚙️ Instalação (Resumo Rápido)
 
 > Versão completa: `docs/INSTALACAO.md`
->
+
+```bash
+git clone https://github.com/seu-repo/EyeGen.git
+cd EyeGen
+
+python -m venv venv
+source venv/bin/activate      # Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python app.py
+
+```
+
 > <div align="center">
   <h2>Conheça Nossa Equipe ✨</h2>
   <a href="https://www.linkedin.com/in/guilherme-peixoto-dev/"><img width="19%" height="368" alt="Guilherme" src="https://github.com/user-attachments/assets/60352ef7-b230-4839-8c7d-042465591b93" /></a>
@@ -138,17 +151,6 @@ Cada seção abaixo contém um **resumo** + link para a versão completa no `/do
       <p>EyeGen</p>
     </a>
   </td>
-
-```bash
-git clone https://github.com/seu-repo/EyeGen.git
-cd EyeGen
-
-python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
-
-pip install -r requirements.txt
-
-python app.py
 
 
 
