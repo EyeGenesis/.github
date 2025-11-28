@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b1e5ce1c-0a23-44dc-8ac5-10b65b56d514" width="500" alt="EyeGlass Banner"/>
+  <img src="https://github.com/user-attachments/assets/b1e5ce1c-0a23-44dc-8ac5-10b65b56d514" width="100%" hight="315px" alt="EyeGlass Banner"/>
 </p>
-
-<h1 align="center">👁️ EyeGlass / EyeGen</h1>
 
 <p align="center">
   Sistema de Navegação Assistiva utilizando IA, Visão Computacional e IoT.<br/>
