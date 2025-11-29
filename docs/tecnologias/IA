@@ -1,1 +1,33 @@
 
+# 🧠 Inteligência Artificial — EyeGlass / EyeGen
+
+A IA é o núcleo da experiência do EyeGlass, responsável por interpretar o ambiente em tempo real.
+
+---
+
+# 🧩 Tecnologias Utilizadas
+
+- Python 3.10+
+- YOLOv8 / YOLOv11
+- OpenCV
+- PyTorch
+- DSPy (Stanford)
+- TTS (pyttsx3, Coqui ou GTTTS)
+- Flask API ou FastAPI
+
+---
+
+# 🎯 Funções da IA
+
+- Detectar objetos, pessoas e obstáculos
+- Estimar distância
+- Definir nível de risco
+- Emitir instruções ao usuário
+- Resumir o contexto usando LLM
+- Gerar fala em tempo real
+- Enviar dados para backend/IoT
+
+---
+
+# 🧠 Pipeline de Processamento
+
