@@ -19,7 +19,7 @@ O front-end é responsável pela interface do usuário, acessibilidade e experi�
 - CSS Modules / TailwindCSS
 
 📄 **Documentação completa:**  
-👉 [`/docs/tecnologias/Front-end`](./tecnologias/Front-end)
+👉 [`/docs/tecnologias/Front-end.md`](./tecnologias/Front-end.md)
 
 ---
 
@@ -35,7 +35,7 @@ Gerencia a comunicação entre usuários, dispositivos, IA e o banco de dados.
 - Deploy em nuvem  
 
 📄 **Documentação completa:**  
-👉 [`/docs/tecnologias/Back-End`](./tecnologias/Back-End)
+👉 [`/docs/tecnologias/Back-End`](./tecnologias/Back-End.md)
 
 ---
 
@@ -49,7 +49,7 @@ Armazena toda a estrutura lógica do sistema.
 - Supabase / PlanetScale  
 
 📄 **Documentação completa:**  
-👉 [`/docs/tecnologias/BD`](./tecnologias/BD)
+👉 [`/docs/tecnologias/BD`](./tecnologias/BD.md)
 
 ---
 
@@ -66,7 +66,7 @@ O cérebro do sistema: visão computacional, DSPy e voz.
 - TTS Engines  
 
 📄 **Documentação completa:**  
-👉 [`/docs/tecnologias/IA`](./tecnologias/IA)
+👉 [`/docs/tecnologias/IA`](./tecnologias/IA.md)
 
 ---
 
@@ -82,7 +82,7 @@ Responsável pelo envio dos frames, telemetria e comandos em tempo real entre o 
 - ESP32 (opcional)  
 
 📄 **Documentação completa:**  
-👉 [`/docs/tecnologias/IOT`](./tecnologias/IOT)
+👉 [`/docs/tecnologias/IOT`](./tecnologias/IOT.md)
 
 ---
 
@@ -98,7 +98,7 @@ Estrutura física do óculos.
 - Armação (3D ou CNC)  
 
 📄 **Documentação completa:**  
-👉 [`/docs/tecnologias/hardware`](./tecnologias/hardware)
+👉 [`/docs/tecnologias/hardware`](./tecnologias/hardware.md)
 
 ---
 
