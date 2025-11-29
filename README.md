@@ -78,16 +78,6 @@ Cada seção abaixo contém um **resumo** + link para a versão completa no `/do
 ---
 
 <details>
-  <summary><strong>👥 Equipe</strong></summary>
-  <br>
-  Estrutura da equipe, responsabilidades, áreas de atuação, contribuições e próximos papéis a serem preenchidos.
-  <br><br>
-  ➡️ <a href="docs/EQUIPE.md">Ver mais detalhes</a>
-</details>
-
----
-
-<details>
   <summary><strong>📄 Sobre o Projeto</strong></summary>
   <br>
   Visão, propósito, impacto social, motivação inicial, objetivos de longo prazo e futuro da plataforma EyeGen/EyeGlass.
