@@ -31,3 +31,33 @@ A IA é o núcleo da experiência do EyeGlass, responsável por interpretar o am
 
 # 🧠 Pipeline de Processamento
 
+Câmera → YOLO → DSPy → Análise de risco → TTS → Saída em áudio
+
+
+---
+
+# 🔌 Endpoints da IA
+
+- **POST /predict** — recebe imagem, retorna objetos
+- **POST /insights** — DSPy cria instrução contextual
+- **POST /tts** — gera áudio
+- **GET /health** — status da IA
+
+---
+
+# 🎛️ Configurações Suportadas
+
+- Modo GPU/CPU
+- Número de threads OpenMP
+- Redução de resolução para economia de energia
+- Cache inteligente de IA
+
+---
+
+# 📌 Conclusão
+
+A IA permite que o usuário:
+- receba instruções em tempo real,
+- compreenda o ambiente,
+- navegue com maior segurança.
+
