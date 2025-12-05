@@ -43,14 +43,14 @@
   <h2 align="center">Redes Sociais da EyeGen 📥 </h2>
   
   <td>
-     <a href="https://www.instagram.com/eyegen_ofc/">
+     <a href="https://www.instagram.com/eyegenesis/?utm_source=ig_web_button_share_sheet">
         <img width="64" height="64" alt="instagram" src="https://github.com/user-attachments/assets/a8a40f4d-def1-4495-811a-1dd61049bca7" />
         <p>eyegen_ofc</p>
       </a>
   </td>
     
   <td>
-    <a href="https://www.linkedin.com/company/eyegen/">
+    <a href="https://www.linkedin.com/company/eyegen-org/">
       <img width="64" height="64" alt="linkedin" src="https://github.com/user-attachments/assets/efa004d7-53e1-4db0-be5b-f056942ddfea" />
       <p>eyegen</p>
     </a>
