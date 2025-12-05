@@ -133,7 +133,7 @@ python app.py
   </td>
     
   <td>
-    <a href="www.linkedin.com/company/110036914">
+    <a href="https://www.linkedin.com/company/eyegen-org/?viewAsMember=true">
       <img width="64" height="64" alt="linkedin" src="https://github.com/user-attachments/assets/efa004d7-53e1-4db0-be5b-f056942ddfea" />
       <p>eyegen</p>
     </a>
