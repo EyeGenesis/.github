@@ -5,22 +5,22 @@
 </div>
 <h1></h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6A79F7&text=Seja%20Bem-vindo(a)%20à%20EyeGen%20👓&descAlign=0&descAlignY=71&fontColor=FFFFFF&fontSize=40&fontAlignY=30&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6A79F7&text=Seja%20Bem-vindo(a)%20ao%20EyeGen%20&descAlign=0&descAlignY=71&fontColor=FFFFFF&fontSize=40&fontAlignY=30&animation=fadeIn" />
 
-<h1 align="center">Nosso Propósito <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /></h1>
-<p align="center">Criamos autonomia, dignidade e qualidade de vida para pessoas com limitações visuais, através de nosso óculos com Inteligência Artificial assistiva.</p>
+<h1 align="left">Nosso Propósito <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /></h1>
+<p>Criamos autonomia, dignidade e qualidade de vida para pessoas com limitações visuais, através de nosso óculos com Inteligência Artificial assistiva.</p>
 
-<div align="center">
+<div align="left">
   <h2>Missão 🎯</h2>
   <p>Promover a autonomia e qualidade de vida para pessoas com deficiência visual.</p>
 </div>
-<div align="center">
+<div align="left">
   <h2>Visão <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eye.png" alt="Eye" width="25" height="25" /></h2>
   <p>Consolidar o EyeGen como solução prática e funcional, em constante evolução para atender pessoas com baixa ou nenhuma visão.</p>
 </div>
-<div align="center">
+<div align="left">
   <h2>Valores <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="25" height="25" /></h2>
-  <p>Inclusão, criatividade, respeito, colaboração e impacto social..</p>
+  <p>Inclusão, criatividade, respeito, colaboração e impacto social.</p>
 </div>
 
 <div align="center">
